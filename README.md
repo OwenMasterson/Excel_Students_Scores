@@ -36,4 +36,4 @@ Each row represents one student.
 2. Calculating the Average Score
 The average score is computed using the three subject marks.
 <img width="1161" height="443" alt="Screenshot 2026-02-10 160335" src="https://github.com/user-attachments/assets/67b7e4ad-7170-44ea-a0c0-bacd33e04b81" />
-Excel Link:https://excel.cloud.microsoft/open/onedrive/?docId=5E38D8AD1B1DBB11%21sa524c31c502b4993a22fd89e80db8f0e&driveId=5E38D8AD1B1DBB11
+Excel Link: https://excel.cloud.microsoft/open/onedrive/?docId=5E38D8AD1B1DBB11%21sa524c31c502b4993a22fd89e80db8f0e&driveId=5E38D8AD1B1DBB11
